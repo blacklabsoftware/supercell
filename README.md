@@ -18,5 +18,5 @@ This simply allows you to print the path to an item in your theme using `asset()
 
 ## Roadmap:
 
-[] Optional Blade Template Support
-[] Debug Mode
+- [ ] Optional Blade Template Support
+- [ ] Debug Mode
